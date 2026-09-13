@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: trend-app
-        image: kousickd/trend-store:latest
+        image: kousickd/trend-store-app:latest
         ports:
         - containerPort: 80
